@@ -6,7 +6,7 @@ Support Cheaters by contributing to my [GitTip fund](https://www.gittip.com/ttsc
 [gather]: http://brettterpstra.com/introducing-gather-a-cocoa-markdownifier/
 [te]: http://smilesoftware.com/TextExpander/
 [marky]: http://markdownrules.com/
-[demo]: http://ttscoff.github.io/cheaters/cheat.html
+[demo]: http://ttscoff.github.io/cheaters/cheaters/cheat.html
 
 First and foremost, this is a total ripoff of an idea by Gabe Weatherhead [over at Macdrifter][macdrifter]. I just expanded on the idea a little bit.
 
@@ -14,6 +14,10 @@ Cheaters is a collection of HTML-based cheat sheets meant for display in an Auto
 
 
 ![Cheat Sheets wide](http://brettterpstra.com/uploads/2012/03/Cheat-Sheets-wide.jpg)
+
+### Update
+
+You can use the instructions below if you're a cheapskate, but for $5 you can use [Fluid](http://fluidapp.com/) and create a menu bar app that's much more full-featured and usable than the Automator action. Seriously. Do it.
 
 ### Using Cheaters
 
@@ -64,3 +68,4 @@ There's also a contrast icon in the upper right, which you can use to flip betwe
 If you find a PDF cheat sheet that's ideal for this type of display, you'll need to convert it to an image (gif, jpg or png) first. Make it large, between 800px and 1024px wide. Cheaters will automatically scale it to your browser width, and when your browser width gets small enough that the image would be unreadable, it shows it full size and lets you scroll around within the viewport. See the CSS3 cheat sheet markup for an example of using an image; it's just an image tag in an html file. Easy as pie.
 
 If you create some great cheat sheets, fork this and send a pull request. Just [let me know](http://brettterpstra.com/contact) if you need a hand!
+
